@@ -1,0 +1,13 @@
+.container {
+  background: #f8f9fa;
+}
+.navbar-collapse {
+  flex-grow: 0;
+}
+.navbar {
+  background-color: #555 !important;
+}
+
+.navbar-nav a {
+  color: #f8f9fa !important;
+}
